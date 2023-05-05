@@ -28,7 +28,7 @@ I'm always looking for something to learn, I REALLY love learning new languages,
 
 # How to Reach Me?
 
-You can Follow me on my [**LinkedIn**][https://www.linkedin.com/in/angelsanchez203/] or follow me on my [**Twitter**][https://twitter.com/angle90SD] or reach ot by e-mail at `angelsanchez23@hotmail.es`
+You can Follow me on my [**LinkedIn**](https://www.linkedin.com/in/angelsanchez203/) or follow me on my [**Twitter**](https://twitter.com/angle90SD) or reach ot by e-mail at `angelsanchez23@hotmail.es`
 
 
 <!--
