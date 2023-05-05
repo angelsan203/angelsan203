@@ -18,7 +18,7 @@ professional_interests = ['Bioinformatics', 'Biostatistics',
 'Omic Technologies', 'Data Science']
 other_interest = ['Gaming','Languages','Music','Pokémon!!']
 
-print("Currently I'm part of a investigation group at Tecnológico de Monterrey called Core Lab Genomics")
+print("Currently I'm part of an investigation group at Tecnológico de Monterrey called Core Lab Genomics")
 print("""I'm eager to learn about different programming languages 
 that can help me on my journey to become a great Bioinformatician!""")
 ```
@@ -28,7 +28,7 @@ I'm always looking for something to learn, I REALLY love learning new languages,
 
 ## 📫 How to Reach Me?
 
-You can Follow me on my [**LinkedIn**](https://www.linkedin.com/in/angelsanchez203/) or follow me on my [**Twitter**](https://twitter.com/angle90SD) or reach ot by e-mail at `angelsanchez23@hotmail.es`
+You can Follow me on my [**LinkedIn**](https://www.linkedin.com/in/angelsanchez203/) or follow me on my [**Twitter**](https://twitter.com/angle90SD) or reach ot by **e-mail** at `angelsanchez23@hotmail.es`
 
 
 <!--
