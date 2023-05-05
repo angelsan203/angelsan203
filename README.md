@@ -18,7 +18,8 @@ professional_interests = ['Bioinformatics', 'Biostatistics',
 other_interest = ['Gaming','Languages','Music']
 
 print("Currently I'm part of a investigation group at Tecnológico de Monterrey called Core Lab Genomics")
-print("I'm eager to learn about different programming languages that can help me on my journey to become a great Bioinformatician!")
+print("I'm eager to learn about different programming languages 
+that can help me on my journey to become a great Bioinformatician!")
 ```
 
 <!--
