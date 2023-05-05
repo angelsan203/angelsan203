@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 My name is Ángel Sánchez and I want to become a great Bioinformatician!
 
@@ -7,7 +7,7 @@ My name is Ángel Sánchez and I want to become a great Bioinformatician!
 ```Python
 
 name = 'Ángel Sánchez Domínguez'
-print('Hi there') 
+print('Hello world') 
 print('My pronouns are: "he" | "him"')
 
 learning = ['Python', 'Bash', 'RScript']
