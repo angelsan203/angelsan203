@@ -23,7 +23,7 @@ My name is Ángel Sánchez and I want to become a great Bioinformatician!
 
 🔭 I’m currently working on a population genomics pipeline based on bash. Thats the PopGenANGSD repository. Feel free to explore my repositories and give some feedback! I love improving what I already did! 
 
-🧠 I am currently learning Python and SQL using Codecademy Data Science career path. I' really excited to apply all the things that I'm learning to solve real life problems! 
+🧠 I am currently learning Python and SQL using Codecademy Data Science career path. I'm really excited to apply all the things that I'm learning to solve real life problems! 
 
 I'm always looking for something to learn, I REALLY love learning new languages, I'm a native Spanish speaker 🇲🇽, at the moment I'm fully proficient with English 🇺🇸 and Portuguese 🇧🇷 as Second languages, and I have intermediate experience with German 🇩🇪 and basic experience with French🇫🇷. I love multicultural experiences and I love meeting and chatting with people from all over the world. As a secondary personal challenge, I want to become a polyglot fully proficient in several languages.
 
